@@ -1,3 +1,5 @@
+# It just replaces a special word from your already created email file with the one you made in ".txt" file.
+#Some Basics
 with open("File_name","r") as names:
     name_list = names.readlines()
 
